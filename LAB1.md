@@ -1,7 +1,15 @@
 # Red-Hat-System-Administration
 1. Install CentOS /RHEL
 2. What is the difference between cat and more command?
+
+cat is used to concatenate and display the content of files, while "more" is a command that displays the contents of a file one screen at a time, allowing the user to navigate through the content. cat simply outputs the entire content, while more provides a paginated view for easier reading.
+
 3. What is the difference between rm and rmdir using man?
+
+<img src="./images/rm.png" width="500" >
+
+<img src="./images/rmdir.png" width="500" >
+
 4. Create the following hierarchy under your home directory:
    
 <img src="./images/q4p1.png" width="500" >
